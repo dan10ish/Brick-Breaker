@@ -1,6 +1,8 @@
 # Brick-Breaker
 Classic **Brick Breaker** Game made using **Unity 2D**!
 
+---
+
 ### Preview
 
 <p align="center">
@@ -11,7 +13,16 @@ Classic **Brick Breaker** Game made using **Unity 2D**!
 <img height="300px" width="170px" src="Resources/Brick-2.png">
 </p>
 
+### Controls
+
+Paddle Left : `A` /  `Left Arrow`
 <br>
+Paddle Right : `D` /  `Right Arrow`
+
+<br>
+
+---
+
 Feel free to use it for your projects!
 
 ---
